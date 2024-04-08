@@ -9,7 +9,7 @@ public class PruebaSelenium {
 		// TODO Auto-generated method stub
 		
 		WebDriver driver = new ChromeDriver();
-		driver.get("https://www.google.mx");
+		driver.get("https://www.google.com");
 		
 	}
 
